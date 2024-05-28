@@ -1,2 +1,2 @@
-https://rose2616.github.io/github.io-project1.html
+https://rose2616.github.io/github.io-project1
 
