@@ -2,12 +2,6 @@ body {
   margin: 0;
  
 }
-
-
-
-
-
-
 header{
   
   color:rgb(29, 12, 41);
@@ -37,7 +31,7 @@ header{
 }
 
 .navbar-collapse {
-  text-align: right !important; /* Override text-align property */
+  text-align: right !important; 
 }
 
 
@@ -63,8 +57,8 @@ header{
 }
 
 .card {
-  width: 90%; /* Adjust according to your design */
-  height: auto; /* Adjust according to your design */
+  width: 90%; 
+  height: auto; 
 }
 
 .modal-header {
