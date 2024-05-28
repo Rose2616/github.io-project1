@@ -1,0 +1,84 @@
+body {
+  margin: 0;
+ 
+}
+
+
+
+
+
+
+header{
+  
+  color:rgb(29, 12, 41);
+  text-shadow: 5px 5px 4px rgb(31, 4, 59);
+} 
+
+.hero-image {
+  background-image: url('images/heroimg.jpg');
+  background-size: cover;
+  background-position: center;
+  position: relative;
+  height: 100vh;
+  color: white;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+}
+
+
+.hero-text {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.navbar-collapse {
+  text-align: right !important; /* Override text-align property */
+}
+
+
+.nav-link  {
+  text-shadow: 0px 2px 8px rgb(243, 166, 23);
+  color: rgb(104, 57, 138);
+  font-weight: bold; 
+  
+}
+
+.navbar-brand {
+  
+  text-shadow: 0px 2px 8px rgb(243, 166, 23);
+  color: rgb(104, 57, 138);
+  font-weight: bold; 
+  
+  
+}
+
+.card-img-top {
+  height: 200px;
+  object-fit: cover;
+}
+
+.card {
+  width: 90%; /* Adjust according to your design */
+  height: auto; /* Adjust according to your design */
+}
+
+.modal-header {
+  text-align: center;
+}
+
+.navbar-toggler {
+  border-color: rgba(104, 57, 138); 
+}
+
+.navbar-toggler-icon {
+
+  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 30 30' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(104, 57, 138, 1)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 7h22M4 15h22M4 23h22'/%3E%3C/svg%3E");
+  
+}
+
+
